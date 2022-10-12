@@ -1,0 +1,24 @@
+*{
+    box-sizing: 0;
+}
+
+header{
+    background-color: bisque;
+    font-style: italic;
+}
+
+input{
+    width: 100%;
+
+}
+
+.form-con{
+    width: 700px;
+}
+ul{
+    list-style: none;
+}
+li{
+        border-bottom: 1px solid black;
+
+}
