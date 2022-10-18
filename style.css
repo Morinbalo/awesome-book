@@ -5,6 +5,9 @@
 header{
     background-color: bisque;
     font-style: italic;
+    display: flex;
+    justify-content: space-between;
+
 }
 
 input{
@@ -21,4 +24,8 @@ ul{
 li{
         border-bottom: 1px solid black;
 
+}
+
+body{
+    background-color: beige;
 }
